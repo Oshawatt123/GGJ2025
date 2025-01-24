@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"d:/Github/GGJ2025/Bubble2025/Content/Blueprints/BP_CameraBase.uasset",
+				"d:/Github/GGJ2025/Bubble2025/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"d:/Github/GGJ2025/Bubble2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"d:/Github/GGJ2025/Bubble2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/0P/H0U18WQQWTUCQEQKCUVCWC.uasset",
+				"d:/Github/GGJ2025/Bubble2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/GG/X5J0D8I81Q41X179W58XXD.uasset",
+				"d:/Github/GGJ2025/Bubble2025/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
+			]
+		}
+	]
+}
