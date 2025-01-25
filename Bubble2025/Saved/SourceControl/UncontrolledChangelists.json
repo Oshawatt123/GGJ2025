@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Games/GGJ2025/Bubble2025/Content/SICKA_Mansion/Maps/MAP_Mansion.umap",
+				"C:/Users/Games/GGJ2025/Bubble2025/Content/Maps/Level_01.umap",
+				"C:/Users/Games/GGJ2025/Bubble2025/Content/Sequences/RockingChair.uasset",
 				"d:/Github/GGJ2025/Bubble2025/Content/Blueprints/BP_CameraBase.uasset",
 				"d:/Github/GGJ2025/Bubble2025/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"d:/Github/GGJ2025/Bubble2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
@@ -95,7 +98,6 @@
 				"C:/Users/Games/GGJ2025/Bubble2025/Content/SICKA_Mansion/Animations/Idle.uasset",
 				"C:/Users/Games/GGJ2025/Bubble2025/Content/SICKA_Mansion/Animations/Interact.uasset",
 				"C:/Users/Games/GGJ2025/Bubble2025/Content/SICKA_Mansion/Animations/Horror_AnimBP.uasset",
-				"C:/Users/Games/GGJ2025/Bubble2025/Content/SICKA_Mansion/Maps/MAP_Mansion.umap",
 				"C:/Users/Games/GGJ2025/Bubble2025/Content/SICKA_Mansion/Blueprints/ItemToInspect/Interface_Interact.uasset",
 				"C:/Users/Games/GGJ2025/Bubble2025/Content/SICKA_Mansion/Blueprints/Widget/Widget_InputUI.uasset",
 				"C:/Users/Games/GGJ2025/Bubble2025/Content/SICKA_Mansion/Blueprints/CharacterSystem/BP_HeadbobCameraShake.uasset",
